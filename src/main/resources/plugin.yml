@@ -1,0 +1,5 @@
+name: Playerrating
+version: ${project.version}
+main: de.alphahelix.playerrating.Playerrating
+depend: [AlphaLibary]
+authors: [AlphaHelix]

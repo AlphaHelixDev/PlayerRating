@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlayerRating:jar">
+    <output-path>H:/servers/1.11-server/plugins</output-path>
+    <root id="archive" name="PlayerRating.jar">
+      <element id="module-output" name="PlayerRating" />
+    </root>
+  </artifact>
+</component>
